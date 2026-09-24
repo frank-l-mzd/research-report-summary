@@ -29,7 +29,7 @@ This repository follows the standard Agent Skill layout — the skill body lives
 Copy the repository into your skills directory:
 
 ```bash
-git clone https://github.com/frank-I-mzd/research-report-summary.git \
+git clone https://github.com/frank-l-mzd/research-report-summary.git \
   ~/.claude/skills/research-report-summary
 ```
 
@@ -38,7 +38,7 @@ Or drop `SKILL.md` into `~/.claude/skills/research-report-summary/SKILL.md`.
 ### WorkBuddy
 
 ```bash
-git clone https://github.com/frank-I-mzd/research-report-summary.git \
+git clone https://github.com/frank-l-mzd/research-report-summary.git \
   ~/.workbuddy/skills/research-report-summary
 ```
 
@@ -105,7 +105,7 @@ See [`examples/demo-earnings-call.md`](./examples/demo-earnings-call.md) for a f
 
 ## License
 
-[MIT](./LICENSE) © 2026 frank-I-mzd
+[MIT](./LICENSE) © 2026 frank-l-mzd
 
 ---
 
@@ -129,11 +129,11 @@ See [`examples/demo-earnings-call.md`](./examples/demo-earnings-call.md) for a f
 
 ```bash
 # Claude Code
-git clone https://github.com/frank-I-mzd/research-report-summary.git \
+git clone https://github.com/frank-l-mzd/research-report-summary.git \
   ~/.claude/skills/research-report-summary
 
 # WorkBuddy
-git clone https://github.com/frank-I-mzd/research-report-summary.git \
+git clone https://github.com/frank-l-mzd/research-report-summary.git \
   ~/.workbuddy/skills/research-report-summary
 ```
 
